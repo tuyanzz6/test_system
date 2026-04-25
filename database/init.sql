@@ -1,7 +1,3 @@
--- 在线考试系统数据库初始化脚本
--- 数据库: online_exam
--- 创建日期: 2024年
-
 -- 创建数据库
 CREATE DATABASE IF NOT EXISTS online_exam DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 
