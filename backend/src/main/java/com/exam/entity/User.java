@@ -4,7 +4,7 @@ import com.baomidou.mybatisplus.annotation.*;
 import lombok.Data;
 
 import java.time.LocalDateTime;
-
+//完成user实体类
 @Data
 @TableName("sys_user")
 public class User {
