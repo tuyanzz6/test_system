@@ -4,7 +4,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.exam.entity.User;
 import org.apache.ibatis.annotations.Param;
 import org.apache.ibatis.annotations.Select;
-//完成数据访问接口
+//数据访问接口
 public interface UserMapper extends BaseMapper<User> {
     
     @Select("SELECT * FROM sys_user WHERE username = #{username} AND deleted = 0")
