@@ -1,5 +1,5 @@
 package com.exam.service;
-//业务逻辑层
+//题目业务逻辑层
 import com.baomidou.mybatisplus.extension.service.IService;
 import com.exam.dto.QuestionDTO;
 import com.exam.entity.Question;
