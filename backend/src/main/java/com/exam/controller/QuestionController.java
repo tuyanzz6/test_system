@@ -1,5 +1,5 @@
 package com.exam.controller;
-//题目控制
+//题目控制模块
 import com.exam.dto.QuestionDTO;
 import com.exam.entity.User;
 import com.exam.service.QuestionService;

@@ -4,7 +4,7 @@ import com.baomidou.mybatisplus.annotation.*;
 import lombok.Data;
 
 import java.time.LocalDateTime;
-//题目模块类
+//题目模块
 @Data
 @TableName("question")
 public class Question {
