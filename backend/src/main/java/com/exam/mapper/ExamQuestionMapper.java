@@ -1,5 +1,5 @@
 package com.exam.mapper;
-
+//题目-考试接口
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.exam.entity.ExamQuestion;
 import org.apache.ibatis.annotations.Param;

@@ -1,5 +1,5 @@
 package com.exam.entity;
-
+//考试类
 import com.baomidou.mybatisplus.annotation.*;
 import lombok.Data;
 
